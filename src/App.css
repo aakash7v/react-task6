@@ -5,8 +5,8 @@
 
 /* Header section */
 .header {
-  background-color: #007bff; /* Primary blue background color */
-  color: #fff; /* White text color */
+  background-color: rebeccapurple; 
+  color: #fff; 
 }
 
 .name {
@@ -19,23 +19,23 @@
 
 /* Section title */
 .section-title {
-  color: #007bff; /* Primary blue text color for section titles */
+  color: #ff00d4; 
 }
 
 /* About section */
 .about {
-  background-color: #f7f7f7; /* Light gray background color */
+  background-color: #f7f7f7; 
 }
 
 /* Contact section */
 .contact {
-  background-color: #007bff; /* Primary blue background color */
-  color: #fff; /* White text color */
+  background-color: #ff00d9; 
+  color: #fff; 
 }
 
 /* Contact links */
 .contact a {
-  color: #fff; /* White link color */
+  color: #a60e0e; 
   text-decoration: none;
   margin-right: 15px;
 }
