@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="header bg-primary text-white py-5 text-center">
-        <h1 className="name">Yuvraj Saha</h1>
+        <h1 className="name">NSV Aakash Varma</h1>
         <p className="job-title">Full Stack Developer</p>
       </header>
 
@@ -14,7 +14,7 @@ function App() {
         <div className="container">
           <h2 className="section-title">About Me</h2>
           <p>
-            I'm a passionate Full Stack Developer with expertise in JavaScript, React, Node.js, and more. I enjoy creating web applications and solving complex problems.
+          I specialize in web development, with expertise in JavaScript, React, Node.js, and database management. I'm driven by the opportunity to create innovative solutions and make a positive impact on the digital world.
           </p>
         </div>
       </section>
@@ -22,9 +22,9 @@ function App() {
       <section className="contact py-5 bg-primary text-white">
         <div className="container">
           <h2 className="section-title text-white">Contact Me</h2>
-          <p>Email: yuvrajsaha51103@gmail.com</p>
-          <p>LinkedIn: <a href="https://www.linkedin.com/in/yuvraj-saha-8a5ba61b4/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a></p>
-          <p>GitHub: <a href="https://github.com/yuvi511" target="_blank" rel="noopener noreferrer">GitHub Profile</a></p>
+          <p>Email: aakashvarma@gmail.com</p>
+          <p>LinkedIn: <a href="https://www.linkedin.com/in/aakash-varma-a90159238/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a></p>
+          <p>GitHub: <a href="https://github.com/aakash7v" target="_blank" rel="noopener noreferrer">GitHub Profile</a></p>
         </div>
       </section>
     </div>
