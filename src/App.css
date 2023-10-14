@@ -19,7 +19,7 @@
 
 /* Section title */
 .section-title {
-  color: #ff00d4; 
+  color: #f7f7f7; 
 }
 
 /* About section */
@@ -35,7 +35,7 @@
 
 /* Contact links */
 .contact a {
-  color: #a60e0e; 
+  color:white; 
   text-decoration: none;
   margin-right: 15px;
 }
